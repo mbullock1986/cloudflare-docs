@@ -1,0 +1,23 @@
+src/content/changelog/cache/2026-09-02-origin-range-requests-rulesets-api.mdx
+  s_9f20ba95c945dd::t_42163ff2e3a51c 1-29
+src/content/docs/cache/concepts/default-cache-behavior.mdx
+  s_9f20ba95c945dd::t_d3ae69e85b2664 35,37,39
+src/content/docs/cache/how-to/cache-rules/create-api.mdx
+  s_9f20ba95c945dd::t_4b5dcfccb366fa 115-169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "cd804dfef4b057ef852f625d0229a46d0a3d7032",
+  "prompts": {},
+  "sessions": {
+    "s_9f20ba95c945dd": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f7fadced9ffepTkGiHC3IRDsQO",
+        "model": "@cf/moonshotai/kimi-k2.7-code"
+      },
+      "human_author": "Matt Bullock <mbullock@cloudflare.com>"
+    }
+  }
+}
